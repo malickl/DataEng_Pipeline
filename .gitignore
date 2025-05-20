@@ -1,0 +1,18 @@
+# environnement virtuel
+.venv/
+
+# variables sensibles
+.env
+
+# données brutes
+/data/
+
+# fichiers temporaires Python
+__pycache__/
+*.py[cod]
+
+# logs
+*.log
+
+# macOS
+.DS_Store
