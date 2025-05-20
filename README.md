@@ -51,7 +51,7 @@ pip install -r requirements.txt`
 PGPORT=5432
 PGDATABASE=elt_proj
 PGUSER=$USER           # ou un autre rôle
-# PGPASSWORD=...       # si besoin`
+PGPASSWORD=...       # si besoin`
 
 * * * * *
 
